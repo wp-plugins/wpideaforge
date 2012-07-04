@@ -1,0 +1,62 @@
+div#wpideaforge_form {
+    background-color:#FBFBFB; 
+    border:1px solid #DBD9CA; 
+    padding: 20px; 
+    margin-bottom: 20px;
+}
+
+input[name="idea"] {
+    width:50%; 
+    margin-right:20px; 
+    margin-left: 20px;
+}
+
+div#wpideaforge_form > div#error > span {
+    font-weight: bold;
+    color: red;
+    padding-top: 5px;
+    display: block;
+}
+
+div#wpideaforge_form > div#success > span {
+    font-weight: bold;
+    color: green;
+    padding-top: 5px;
+    display: block;
+}
+
+div.wpideaforge_vote {
+    height: 40px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+div.wpideaforge_vote > div {
+    float: left;
+}
+
+div.wpideaforge_vote_counter {
+    background-color:#FBFBFB;  
+    border:1px solid #DBD9CA; 
+    padding: 6px;
+    text-align: center;
+    width: 45px; 
+    font-weight: bold;    
+    margin-right: 15px;
+}
+
+div.wpideaforge_vote_title p {
+    line-height: 40px;
+}
+
+div.wpideaforge_vote_submit button {
+    height: 39px;
+    width: 30px;
+    padding: 0px;
+    background-color:#FBFBFB; 
+    border-top:1px solid #DBD9CA; 
+    border-bottom:1px solid #DBD9CA; 
+    border-left:1px solid #DBD9CA; 
+    border-right: none;
+    cursor: pointer;
+}

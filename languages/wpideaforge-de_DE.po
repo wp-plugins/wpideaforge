@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpIdeaForge\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-02 15:27+0100\n"
+"PO-Revision-Date: 2012-07-02 15:28+0100\n"
+"Last-Translator: Guido Mühlwitz <guido@muehlwitz.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ./includes\n"
+
+#: wpideaforge.php:35
+msgid "Let's user suggest Ideas for upcoming Articles."
+msgstr "Erlaubt Besuchern Ideen für zukünftige Artikel einzureichen."
+
+#: includes/custom-post-type.php:9
+msgid "Ideas"
+msgstr "Ideen"
+
+#: includes/custom-post-type.php:10
+msgid "All Ideas"
+msgstr "Alle Ideen"
+
+#: includes/custom-post-type.php:11
+#: includes/html/form.php:3
+msgid "Idea"
+msgstr "Idee"
+
+#: includes/custom-post-type.php:12
+#: includes/custom-post-type.php:15
+msgid "New Idea"
+msgstr "Neue Idee"
+
+#: includes/custom-post-type.php:13
+msgid "Add new Idea"
+msgstr "Neue Idee Hinzufügen"
+
+#: includes/custom-post-type.php:14
+msgid "Edit Idea"
+msgstr "Idee Editieren"
+
+#: includes/custom-post-type.php:16
+msgid "View Idea"
+msgstr "Idee Ansehen"
+
+#: includes/custom-post-type.php:17
+msgid "Search Ideas"
+msgstr "Ideen Durchsuchen"
+
+#: includes/custom-post-type.php:18
+msgid "No Ideas Found"
+msgstr "Keine Ideen Gefunden"
+
+#: includes/custom-post-type.php:19
+msgid "No Ideas Found in Trash"
+msgstr "Keine Ideen im Papierkorb gefunden"
+
+#: includes/scripts.php:35
+msgid "Thanks for the new Idea."
+msgstr "Vielen Dank für die neue Idee."
+
+#: includes/scripts.php:36
+msgid "Something went wrong, please try again."
+msgstr "Es ist etwas schief gelaufen, bitte probiere es noch einmal."
+
+#: includes/countbox.php:13
+#: includes/countbox.php:31
+#: includes/indexlist.php:62
+msgid "Votes"
+msgstr "Stimmen"
+
+#: includes/indexlist.php:17
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: includes/widgets.php:8
+#: includes/widgets.php:97
+#: includes/widgets.php:105
+msgid "Top Ideas"
+msgstr "Die bestbewertesten Ideen"
+
+#: includes/widgets.php:28
+#: includes/widgets.php:54
+msgid "Visit Ideas"
+msgstr "zu den Ideen"
+
+#: includes/widgets.php:37
+#: includes/widgets.php:111
+#: includes/widgets.php:119
+msgid "Newest Ideas"
+msgstr "Die neuesten Ideen"
+
+#: includes/widgets.php:71
+#: includes/widgets.php:89
+msgid "URL of Ideas"
+msgstr "URL der Ideen-Seite"
+
+#: includes/widgets.php:100
+msgid "Top Ideas of wpIdeaForge"
+msgstr "Die besten Ideen aus wpIdeaForge"
+
+#: includes/widgets.php:114
+msgid "Newest Ideas of wpIdeaForge"
+msgstr "Die neuesten Ideen aus wpIdeaForge"
+
+#: includes/html/form.php:5
+msgid "Submit Idea"
+msgstr "Neue Idee Einreichen"
+
+#: includes/html/filter.php:1
+msgid "Collected Ideas"
+msgstr "Gesammelte Ideen"
+
